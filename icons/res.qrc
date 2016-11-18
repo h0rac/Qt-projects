@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>back.ico</file>
+    <file>connect.ico</file>
+    <file>ethOff.png</file>
+    <file>ethOn.png</file>
+    <file>forward.ico</file>
+    <file>pause.ico</file>
+<file>router.jpg</file>
+<file>switch.jpg</file>
+<file>start.ico</file>
+<file>stop.ico</file>
+<file>select.ico</file>
+<file>exit.ico</file>
+</qresource>
+</RCC>
